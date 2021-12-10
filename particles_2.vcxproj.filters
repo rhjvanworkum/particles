@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxFastParticleSystem\src\FastParticleSystem.cpp">
+			<Filter>addons\ofxFastParticleSystem\src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxFastParticleSystem">
+			<UniqueIdentifier>{A109EEE4-F85F-9960-5BE3-006E}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxFastParticleSystem\src">
+			<UniqueIdentifier>{FC4C9505-3BF0-0A7B-38F5-C8B9}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxFastParticleSystem\src\FastParticleSystem.h">
+			<Filter>addons\ofxFastParticleSystem\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxFastParticleSystem\src\ofxFastParticleSystem.h">
+			<Filter>addons\ofxFastParticleSystem\src</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>

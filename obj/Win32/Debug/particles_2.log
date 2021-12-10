@@ -1,0 +1,21 @@
+﻿  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  FastParticleSystem.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\openFrameworks\addons\ofxFastParticleSystem\src\FastParticleSystem.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+C:\openFrameworks\addons\ofxFastParticleSystem\src\FastParticleSystem.cpp(70,27): warning C4018: '<': signed/unsigned mismatch
+C:\openFrameworks\addons\ofxFastParticleSystem\src\FastParticleSystem.cpp(174,15): warning C4018: '<': signed/unsigned mismatch
+C:\openFrameworks\addons\ofxFastParticleSystem\src\FastParticleSystem.cpp(194,28): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\particles_2_debug.lib and object bin\particles_2_debug.exp
+  particles_2.vcxproj -> C:\openFrameworks\apps\myApps\particles_2\bin\particles_2_debug.exe
+  
+  	                   2	C:\openFrameworks\libs\fmod\lib\vs\Win32\
+  	    New File  		 1544704	C:\openFrameworks\libs\fmod\lib\vs\Win32\fmod.dll
+  	    New File  		 1733120	C:\openFrameworks\libs\fmod\lib\vs\Win32\fmodL.dll
+  
+  	                   1	C:\openFrameworks\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	C:\openFrameworks\apps\myApps\particles_2\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\openFrameworks\apps\myApps\particles_2\bin\fmodL.dll
+  	    New File  		 6018560	C:\openFrameworks\libs\FreeImage\lib\vs\Win32\FreeImage.dll
